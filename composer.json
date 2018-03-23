@@ -1,6 +1,7 @@
 {
   "name": "projektlaravel/our-url",
   "description": "First test Package",
+  "license": "MIT",
     "authors": [
         {
             "name": "Karol Jęrusik",
