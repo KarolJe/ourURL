@@ -1,0 +1,13 @@
+{
+    "name": "projektlaravel/oururl",
+    "description": "First test package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Karol Jędrusik",
+            "email": "office@projektlaravel.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
